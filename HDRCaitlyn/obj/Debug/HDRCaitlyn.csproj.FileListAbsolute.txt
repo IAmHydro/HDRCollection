@@ -1,0 +1,2 @@
+c:\users\dirk\documents\visual studio 2015\Projects\HDRCaitlyn\HDRCaitlyn\bin\Debug\HDRCaitlyn.exe.config
+C:\Users\Dirk\Documents\Visual Studio 2015\Projects\HDRCollection\HDRCaitlyn\bin\Debug\HDRCaitlyn.exe.config
